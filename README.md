@@ -1,5 +1,10 @@
 # Product-Dissection-SQL-Schema-Design-Linkedin
 
+
+# ER Diagram
+<img width="663" alt="Schema Design ER Diagram Linkedin" src="https://github.com/U1j1/Product-Dissection-SQL-Schema-Design-Linkedin/assets/99313987/fbdc3ccd-3e08-4ef4-9cb2-cfa91028100a">
+
+
 # Docx File
 Problem Statement
 
@@ -228,5 +233,3 @@ Conclusion
 In this case study, we delved into the design of Linkedin schema and Entity-Relationship diagram. Linkedin has revolutionised the way people share and engage with visual content, fostering connections and creative expression. The platform's intricate data model, consisting of entities like profiles, posts, comments, likes, followers, hashtags, and associations, forms the foundation for its seamless functionality. By understanding this schema, we gain insight into how Linkedin effectively manages the complexities of profiles interactions and content sharing, contributing to its widespread popularity and continued growth in the world of social media.
 
 
-# ER Diagram
-<img width="663" alt="Schema Design ER Diagram Linkedin" src="https://github.com/U1j1/Product-Dissection-SQL-Schema-Design-Linkedin/assets/99313987/fbdc3ccd-3e08-4ef4-9cb2-cfa91028100a">
